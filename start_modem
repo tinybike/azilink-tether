@@ -1,4 +1,0 @@
-adb forward tcp:41927 tcp:41927
-sudo cp resolv.conf /etc/
-modprobe tun
-sudo openvpn --config azilink.ovpn
