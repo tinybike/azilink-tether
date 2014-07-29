@@ -1,0 +1,1 @@
+Azilink/OpenVPN USB tether, does not require root.  http://forum.xda-developers.com/showthread.php?t=942671
